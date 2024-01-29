@@ -1,0 +1,18 @@
+body {
+  padding: 30px;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1,
+h5 {
+  font-weight: 600;
+  margin-bottom: 0;
+}
+
+.title-page {
+  margin-bottom: 50px;
+}
+
+.list-user .card-body table th {
+  font-weight: 600;
+}
