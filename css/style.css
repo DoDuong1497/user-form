@@ -13,6 +13,6 @@ h5 {
   margin-bottom: 50px;
 }
 
-.list-user .card-body table th {
+#list-user .card-body table thead th {
   font-weight: 600;
 }
